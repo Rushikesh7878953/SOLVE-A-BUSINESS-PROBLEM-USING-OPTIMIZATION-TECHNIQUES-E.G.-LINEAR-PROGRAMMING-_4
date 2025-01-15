@@ -16,4 +16,4 @@
 
 # OUTPUT OF THE TASK
 
-
+![Capture 1212](https://github.com/user-attachments/assets/0b27cb45-ca96-4dc5-b80f-0a34de51a778)
